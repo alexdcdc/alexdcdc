@@ -1,5 +1,5 @@
 # Hello! 
-I'm Alex, a student studying computer science in Georgia Tech's class of 2027. I'm interested in a wide variety of things, ranging from game development to full-stack to modeling and more. I'm always eager to play with whatever tools/software/ideas catch my eye!
+I'm Alex, a student studying computer science in Georgia Tech's class of 2027. I'm interested in a wide variety of things, ranging from game development to full-stack to graphics and modeling and more. I'm always eager to play with whatever tools/software/ideas catch my eye!
 
 Some fun facts about me:
 - I do a bunch of stuff with my free time: fencing, acting, gaming, shower-singing, etc etc.
